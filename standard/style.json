@@ -1,0 +1,12 @@
+{
+  "colors": {"ink": [15, 23, 42], "muted": [100, 116, 139], "accent": [255, 112, 20], "line": [226, 232, 240], "paper": [241, 245, 249],
+             "bg_top": [248, 250, 252], "bg_bottom": [233, 238, 245]},
+  "font": "Inter (variable): SemiBold step titles, Regular detail lines, Bold brand and cards",
+  "voice": {"provider": "elevenlabs", "voice_id": "EXAVITQu4vr4xnSDxMaL", "name": "Sarah (mature, reassuring, American)", "model_id": "eleven_multilingual_v2",
+            "settings": {"stability": 0.55, "similarity_boost": 0.75, "style": 0.15, "use_speaker_boost": true}},
+  "sfx_db": {"click": -8, "whoosh": -12, "done": -9},
+  "music_db": -18,
+  "lufs": -16,
+  "fps": 60,
+  "formats": {"16x9": [1920, 1080], "9x16": [1080, 1920]}
+}
